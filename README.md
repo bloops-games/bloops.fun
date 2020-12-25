@@ -14,7 +14,7 @@ alt="Kellen Face">
 ## Telegram bot for offline quizzes
 
 ## What is bloopsbot?
-What is bloopsbot? 🤖 This is a telegram bot created to organize offline games similar to tiktok quizzes. bloop has no localization and is only in Russian.
+What is bloopsbot? 🤖 This is a telegram bot created to organize offline games similar to tiktok quizzes. bloopsbot has no localization and is only in Russian.
 
 ## Location
 You can use it here -> [bloops in Telegram](https://t.me/bloops_bot)
