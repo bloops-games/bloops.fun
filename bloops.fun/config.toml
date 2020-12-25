@@ -8,16 +8,12 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+post = "/post/:year/:month/:day/:slug/"
 
 [params]
-    description = "A simple, minimal blog for those who love text."
-    footer = "Open-Source | [Github](https://github.com/robotomize/bloopsbot) | [robotomize.me](https://robotomize.me)"
-    custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "Open-Source | [Github](https://github.com/robotomize/bloopsbot) | [robotomize.me](https://robotomize.me)"
+custom_css = ["css/theme-override.css"]
 
-# If you want to use Fathom (https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
-    siteID = "ABCDE"
-    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
-
+[markup.goldmark.renderer]
+unsafe = true

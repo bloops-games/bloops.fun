@@ -4,8 +4,7 @@ title: Home
 
 <img
   id="main-image"
-  src="images/partywizard.gif"
-  alt="Kellen Face">
+  src="https://bloops.fun/images/partywizard.gif">
 
 # Bloops
 
