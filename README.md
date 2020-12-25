@@ -1,9 +1,5 @@
 # bloops.fun
 
----
-title: Home
----
-
 <img
 id="main-image"
 src="https://bloops.fun/images/partywizard.gif">
