@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Classic"
+title = "bloops"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
