@@ -23,6 +23,7 @@ You can use it here -> [bloops in Telegram](https://t.me/bloops_bot)
 * 🎲 Quiz format with clear rules, in 30 seconds you need to name a few words for the dropped out letter
 * 💎 Bloops are additional tasks that you can get, maybe they will amuse you or increase the number of points
 * 👽 Players have profiles, simple statistics are kept
+* 👯 You can even add players without telegrams  
 * 👨 Simple interface, you can create a game in a few steps and customize it for yourself, for example, add or remove blues, vote or enable your categories
 * 💻 Open source, you can join development or deploy your server with a bot [code](https://github.com/robotomize/bloopsbot) 
 
