@@ -2,14 +2,14 @@
 
 <img
 id="main-image"
-src="https://bloops.fun/images/partywizard.gif">
+src="https://bloops.fun/images/full_logo_trans.png">
 
 # Bloops
 
 ## Offline quizzes
 
 ## What is bloopsbot?
-Well, this is a telegram bot 🤖 for organizing quizzes similar to quizzes in tiktok, where you need to
+This is a telegram bot 🤖 for organizing quizzes similar to quizzes in tiktok, where you need to
 30 seconds name a few words from the proposed categories at a random letter. The bot is organizing, counting points, and you play with your friends
 
 ## Location
