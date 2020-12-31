@@ -6,10 +6,6 @@ title: Home
   id="main-image"
   src="https://bloops.fun/images/partywizard.gif">
 
-<img
-id="main-image"
-src="https://bloops.fun/images/full_logo_trans.png" width="400">
-
 # Bloops - Оффлайн викторины
 
 
