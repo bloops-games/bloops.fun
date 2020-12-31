@@ -6,11 +6,12 @@ title: Home
   id="main-image"
   src="https://bloops.fun/images/partywizard.gif">
 
-# Bloops - Оффлайн викторины
-
 <img
 id="main-image"
 src="https://bloops.fun/images/full_logo_trans.png" width="400">
+
+# Bloops - Оффлайн викторины
+
 
 ## Что за bloopsbot?
 Телеграм бот 🤖 для организации викторин похожих на викторины в тиктоке, где тебе нужно за 
