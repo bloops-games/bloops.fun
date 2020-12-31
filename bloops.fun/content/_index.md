@@ -6,7 +6,7 @@ title: Home
   id="main-image"
   src="https://bloops.fun/images/partywizard.gif">
 
-# Bloops - Оффлайн викторины
+# Bloops
 
 
 ## Что за bloopsbot?
