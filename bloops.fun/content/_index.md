@@ -33,7 +33,7 @@ title: Home
 ## <img src="https://bloops.fun/images/create.gif">
 
 ### Процесс игры
-## <img src="https://bloops.fun/images/create.gif">
+## <img src="https://bloops.fun/images/playing.gif">
 
 ## Играть
 🚀 [Играть](https://t.me/bloops_bot)

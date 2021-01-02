@@ -33,7 +33,7 @@ You can use it here -> [bloops in Telegram](https://t.me/bloops_bot)
 ## <img src="https://bloops.fun/images/create.gif">
 
 ### The process of the game
-## <img src="https://bloops.fun/images/create.gif">
+## <img src="https://bloops.fun/images/playing.gif">
 
 ## Play 
 🚀 [PLAY](https://t.me/bloops_bot)
