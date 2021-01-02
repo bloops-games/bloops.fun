@@ -27,6 +27,14 @@ You can use it here -> [bloops in Telegram](https://t.me/bloops_bot)
 * 👨 Simple interface, you can create a game in a few steps and customize it for yourself, for example, add or remove blues, vote or enable your categories
 * 💻 Open source, you can join development or deploy your server with a bot [code](https://github.com/robotomize/bloopsbot) 
 
+## How does it work?
+
+### Creating a game
+## <img src="https://bloops.fun/images/create.gif">
+
+### The process of the game
+## <img src="https://bloops.fun/images/create.gif">
+
 ## Play 
 🚀 [PLAY](https://t.me/bloops_bot)
 
