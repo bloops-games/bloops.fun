@@ -4,7 +4,7 @@ title: Home
 
 <img
   id="main-image"
-  src="https://bloops.fun/images/partywizard.gif">
+  src="/images/partywizard.gif">
 
 # Bloops
 
@@ -25,15 +25,15 @@ title: Home
 * 👽 У игроков есть профили, ведется простая статистика
 * 👯 Ты можешь добавлять даже игроков, не имеющих телеграм  
 * 👨 Простой интерфейс, ты можешь создать игру за несколько шагов и настроить под себя, например добавить или убрать блюпсы, голосование или включить свои категории
-* 💻 Открытый исходный код [код](https://github.com/robotomize/bloops)
+* 💻 Открытый исходный код [код](https://github.com/bloops-games/bloops)
 
 ## Как это работает?
 
 ### Создание игры
-## <img src="https://bloops.fun/images/create.gif">
+## <img src="/images/create.gif">
 
 ### Процесс игры
-## <img src="https://bloops.fun/images/playing.gif">
+## <img src="/images/playing.gif">
 
 ## Играть
 🚀 [Играть](https://t.me/bloops_bot)
@@ -41,6 +41,6 @@ title: Home
 ---
 
 ## Контакты
-[telegram](https://t.me/robotomize)
+tg: [@telegram](https://t.me/robotomize)
 
-[email](mailto:robotomize@gmail.com)
+email: [robotomize@gmail.com](mailto:robotomize@gmail.com)

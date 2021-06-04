@@ -44,6 +44,6 @@ No😔, only in Russian
 ---
 
 ## Contact
-[telegram](https://t.me/robotomize)
+tg: [@robotomize](https://t.me/robotomize)
 
-[email](mailto:robotomize@gmail.com)
+email: [robotomize@gmail.com](mailto:robotomize@gmail.com)
